@@ -1,0 +1,9 @@
+
+2022/04/15 (21:49:31) | ===> btop++ v.1.2.6
+2022/04/15 (21:49:31) | DEBUG: Starting in DEBUG mode!
+2022/04/15 (21:49:31) | INFO: Logger set to DEBUG
+2022/04/15 (21:49:31) | DEBUG: Using locale en_US.UTF-8
+2022/04/15 (21:49:31) | INFO: Running on /dev/ttys000
+2022/04/15 (21:49:31) | DEBUG: get_sensors(): show_coretemp=1 check_temp=1
+2022/04/15 (21:49:31) | DEBUG: M1 sensors found
+2022/04/15 (21:49:32) | INFO: Quitting! Runtime: 00:00:01
